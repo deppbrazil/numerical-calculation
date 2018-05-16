@@ -4,7 +4,7 @@
 
 ### Methods ###
 * Newton-Raphson
-* Falsa pos~ição
+* Falsa posição
 * Iterativo linear
 * Método da bissecção
 
