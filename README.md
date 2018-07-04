@@ -7,6 +7,9 @@
 * Falsa posição
 * Iterativo linear
 * Método da bissecção
+* Regra dos trapézios 
+* Regra de Simpson
+* Polinômio interpolar de Lagrange
 
 ### Language ### 
 * MatLab
