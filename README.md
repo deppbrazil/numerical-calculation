@@ -1,10 +1,12 @@
 # Numerical Calculation # 
 
-## Counselor > [Dr. Douglas Silva Maioli](https://www.professordouglasmaioli.com/) ##
+[![Banner](assets/banner.jpg)](https://github.com/deppbrazil/numerical-calculation)
 
-* [See the Algorithms](https://github.com/deppbrazil/numerical-calculation/tree/master/algorithms)
+[See the Algorithms](https://github.com/deppbrazil/numerical-calculation/tree/master/algorithms)
 
-### Methods ###
+### Counselor: [Dr. Douglas Silva Maioli](https://www.professordouglasmaioli.com/) ###
+
+### Methods: ###
 * Newton-Raphson
 * Falsa posição
 * Iterativo linear
@@ -13,5 +15,5 @@
 * Regra de Simpson
 * Polinômio interpolar de Lagrange
 
-### Language ### 
+### Language: ### 
 * MatLab
